@@ -1,0 +1,10 @@
+C:\Users\C3\source\repos\ModeloDeTPFinal\bin\Debug\ModeloDeTPFinal.exe.config
+C:\Users\C3\source\repos\ModeloDeTPFinal\bin\Debug\ModeloDeTPFinal.exe
+C:\Users\C3\source\repos\ModeloDeTPFinal\bin\Debug\ModeloDeTPFinal.pdb
+C:\Users\C3\source\repos\ModeloDeTPFinal\obj\Debug\ModeloDeTPFinal.csproj.AssemblyReference.cache
+C:\Users\C3\source\repos\ModeloDeTPFinal\obj\Debug\ModeloDeTPFinal.Properties.Resources.resources
+C:\Users\C3\source\repos\ModeloDeTPFinal\obj\Debug\ModeloDeTPFinal.csproj.GenerateResource.cache
+C:\Users\C3\source\repos\ModeloDeTPFinal\obj\Debug\ModeloDeTPFinal.csproj.CoreCompileInputs.cache
+C:\Users\C3\source\repos\ModeloDeTPFinal\obj\Debug\ModeloDeTPFinal.exe
+C:\Users\C3\source\repos\ModeloDeTPFinal\obj\Debug\ModeloDeTPFinal.pdb
+C:\Users\C3\source\repos\ModeloDeTPFinal\obj\Debug\ModeloDeTPFinal.Login.resources
